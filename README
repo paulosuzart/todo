@@ -5,3 +5,5 @@ Where I'm introducing bit words about BDD, Scala Specs and Lift.
 
 The post shows few examples on Specifications for Lift Mapper validations,
 Spec execution inside a Lift Session and custom matchers.
+
+Check the test package to see the Specifications and Matchers.

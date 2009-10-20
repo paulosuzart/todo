@@ -1,7 +1,7 @@
 Lift's Getting Started app used in My blog Post:
 Especificando validaçõescom Scala, Specs e Lift Parte II
 http://migre.me/9sRo
-Where I'm introduciong bit words about BDD, Scala Specs and Lift. 
+Where I'm introducing bit words about BDD, Scala Specs and Lift. 
 
 The post shows few examples on Specifications for Lift Mapper validations,
 Spec execution inside a Lift Session and custom matchers.

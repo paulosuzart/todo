@@ -8,7 +8,7 @@
     <name>todo</name>
     <inceptionYear>2007</inceptionYear>
     <properties>
-        <scala.version>2.7.3</scala.version>
+        <scala.version>2.13.1</scala.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
